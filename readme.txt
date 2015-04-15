@@ -6,3 +6,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 --learning how to do merge.
 
+test2
